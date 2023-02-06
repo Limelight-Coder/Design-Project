@@ -1,0 +1,96 @@
+* {
+    margin: 0;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Verdana, sans-serif;
+    box-sizing: border-box;
+    resize: none;
+}
+
+body {
+    
+   
+    background: linear-gradient(to right, #6dd5ed, #2193b0); 
+    
+
+}
+
+.header {
+    padding: 25px;
+    background: 3px white;
+    color: black;
+    font-size: 16px;
+    border: 3px #FFFFFF;
+    margin: white;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Verdana, sans-serif;
+
+  }
+
+  a {
+    border: 2px;
+  }
+
+  .crop {
+    resize: none;
+    margin: 20px;
+    height: 600px;
+    width: 800px;
+    overflow: hidden;
+    object-fit: cover;
+    border: 4px #6dd5ed;
+    display: flex;
+    left: 120px;
+   }
+  
+
+.crop img {
+    resize: none;
+    height: 100%;
+    width: 100%;
+}
+
+b {
+    resize: none;
+    display: inline;
+}
+    
+.image {
+    resize: none;
+    height: 240px;
+    width: 950x;
+    overflow: hidden;
+    position: relative;
+    top: -500px;
+    right: 270px;
+    margin: 6px;
+    
+    
+}
+
+.text {
+    resize: none;
+    position: relative;
+    top: -37px;
+}
+/* ran out of class names at this point */
+.the {
+    resize: none;
+    position: relative;
+    left: 140px;
+    margin: 6px;
+}
+
+.title{
+    resize: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+  
